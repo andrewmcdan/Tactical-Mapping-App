@@ -13,8 +13,12 @@ Repo that contains all the code for the microcontrollers in the device.
 ## [Tactical Mapping Android]
 Repo that contains the Android app code.
 
+## [Tactical Mapping Misc]
+Repo for other related documents, code, etc.
+
 ## License
 All code in these repos is licensed under GNU GPLv3.
 
    [Tactical Mapping Micros]: <https://github.com/andrewmcdan/Tactical_Mapping>
    [Tactical Mapping Android]: <https://github.com/andrewmcdan/Tactical_Mapping_Android>
+   [Tactical Mapping Misc]: <https://github.com/andrewmcdan/Tactical_Mapping_Misc>
