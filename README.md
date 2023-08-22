@@ -1,7 +1,7 @@
 # Tactical Mapping App
 ### _Keep track of your battle buddies_
 
-_Tactical Mapping_ is an app and associated hardware for keeping track of your battle buddies when out in the field. It uses LoRa radios, Bluetooth, and Android phones to give each user the exact location of all your buddies on an offline map. Useful for airsoft and the zombie apocalypse alike!
+_Tactical Mapping_ is an app and associated hardware for keeping track of your battle buddies when out in the field. It uses LoRa radios, Bluetooth, and Android phones to give each user the exact location of all your buddies on an offline map. Useful for airsoft and the zombie apocalypse!
 
 Designed to be used without a persistent internet connection, the app caches maps on the Android device, and it can store as much map data as your device has storage available. 
 
